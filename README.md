@@ -1,2 +1,2 @@
 # LC3-Simulator
-This project simulates machine instructions for the LC3. It simulates instructions such as ADD, AND, BR, OUT, HALT, NOT and LD. 
+This project simulates machine instructions for the LC3. It simulates instructions such as ADD, AND, BR, OUT, HALT, NOT and LD. This program outputs the numbers 9-1 in descending order. Some machine organization components to it are array registers, array memory, pc counter. condition code tracker and IR register. This also includes Junit tests of the methods. Note: I only wrote the code in the Computer.java and ComputerTest.java file
